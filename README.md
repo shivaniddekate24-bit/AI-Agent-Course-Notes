@@ -1,4 +1,4 @@
-<img width="1454" height="973" alt="image" src="https://github.com/user-attachments/assets/4c5d2a88-8ded-40e0-a406-707caa6849c7" /># AI-Agent-Course-Notes
+
 # Azure AI Foundry – Theory Notes
 
 This repository contains my handwritten and scanned theory notes from the Azure AI Foundry course.  
